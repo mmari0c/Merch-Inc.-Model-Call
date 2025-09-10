@@ -29,7 +29,7 @@ Screenshots:
 
 ---
 
-## 🛠 Tech Stack (Planned)
+## Tech Stack (Planned)
 - **Frontend:** React + Next.js  
 - **Styling:** Tailwind CSS  
 - **Backend:** Supabase (Auth, Database, Storage, Realtime)  
@@ -37,7 +37,7 @@ Screenshots:
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 1. Build frontend mock with **Next.js + Tailwind** using fake data  
 2. Integrate Supabase for auth and database storage  
 3. Add real-time updates and selection logic  
@@ -46,5 +46,5 @@ Screenshots:
 
 ---
 
-## 👤 Author
+## Author
 Mario Nolasco – [LinkedIn](https://www.linkedin.com/in/marionolascocortez/)

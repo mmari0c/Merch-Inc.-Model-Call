@@ -23,10 +23,6 @@ Currently, the process is slowed down by:
 ## Demo (Figma Prototype)
 [View Figma Demo](https://www.figma.com/make/u88hRbZ6gWMlwZMvsHsQeu/Fashion-Show-Model-Call-Wireframes?node-id=0-1&t=NDNBv05NmcmsxZCM-1)
 
-Screenshots:  
-![Designer Portal Wireframe](docs/designer-portal.png)  
-![Admin Dashboard Wireframe](docs/admin-dashboard.png)
-
 ---
 
 ## Tech Stack (Planned)
